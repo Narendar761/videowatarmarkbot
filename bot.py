@@ -6,9 +6,9 @@ from pyrogram.errors import FloodWait
 from moviepy import VideoFileClip, TextClip, CompositeVideoClip
 
 # Bot configuration
-API_ID = 1234567  # Replace with your API ID
-API_HASH = "your_api_hash_here"  # Replace with your API HASH
-BOT_TOKEN = "your_bot_token_here"  # Replace with your bot token
+API_ID = ""  # Replace with your API ID
+API_HASH = ""  # Replace with your API HASH
+BOT_TOKEN = ""  # Replace with your bot token
 
 # Available options
 COLORS = {
