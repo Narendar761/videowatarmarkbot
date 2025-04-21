@@ -1,0 +1,3 @@
+pyrogram
+moviepy
+pillow
